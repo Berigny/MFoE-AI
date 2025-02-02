@@ -83,7 +83,7 @@ By foregrounding the relational nature of intelligence, MFoE-AI aspires to creat
 
 ## 2. The Meta-Framework of Everything (MFoE)
 
-*This section (see full text in the paper) establishes the philosophical foundation of MFoE-AI. It emphasizes that intelligence is inherently relational, emerging from continuous interactions among the core elements: Void, Observer, Subjects & Objects, Medium, and Blueprint. By grounding our architecture in these principles, MFoE-AI provides a clear, scalable pathway toward AGI. [Read the full draft whitepaper in full](https://raw.githubusercontent.com/Berigny/MFoE-AI-Paper/9b03a083d6eb2749d0564c52dbabd00c65c13ae7/MFoE-AI-Paper.pdf)*
+*This section (see full text in the paper) establishes the philosophical foundation of MFoE-AI. It emphasizes that intelligence is inherently relational, emerging from continuous interactions among the core elements: Void, Observer, Subjects & Objects, Medium, and Blueprint. By grounding our architecture in these principles, MFoE-AI provides a clear, scalable pathway toward AGI. [Read the draft whitepaper in full](https://raw.githubusercontent.com/Berigny/MFoE-AI-Paper/9b03a083d6eb2749d0564c52dbabd00c65c13ae7/MFoE-AI-Paper.pdf)*
 
 More material is available at [www.mfoe.life](https://www.mfoe.life/home)
 
@@ -140,7 +140,7 @@ These bidirectional interactions—illustrated by cyclical feedback loops—ensu
 
 ## 4. Technical Mechanisms and Implementation Details
 
-*(Refer to Section 4 for detailed pseudocode, communication protocols, scalability approaches, and pilot examples. The technical mechanisms illustrate how the relational dynamics described in Section 3 are realized in practice, enabling continuous self-improvement, context-aware decision-making, and ethical gating. [Read the full draft whitepaper in full](https://raw.githubusercontent.com/Berigny/MFoE-AI-Paper/9b03a083d6eb2749d0564c52dbabd00c65c13ae7/MFoE-AI-Paper.pdf)*
+*(Refer to Section 4 for detailed pseudocode, communication protocols, scalability approaches, and pilot examples. The technical mechanisms illustrate how the relational dynamics described in Section 3 are realized in practice, enabling continuous self-improvement, context-aware decision-making, and ethical gating. [Read the draft whitepaper in full](https://raw.githubusercontent.com/Berigny/MFoE-AI-Paper/9b03a083d6eb2749d0564c52dbabd00c65c13ae7/MFoE-AI-Paper.pdf)*
 
 
 
