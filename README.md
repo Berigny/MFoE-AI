@@ -85,7 +85,7 @@ By foregrounding the relational nature of intelligence, MFoE-AI aspires to creat
 
 *This section (see full text in the paper) establishes the philosophical foundation of MFoE-AI. It emphasizes that intelligence is inherently relational, emerging from continuous interactions among the core elements: Void, Observer, Subjects & Objects, Medium, and Blueprint. By grounding our architecture in these principles, MFoE-AI provides a clear, scalable pathway toward AGI.*
 
-[Addition information avaiable from the MFoE Homepage](https://www.mfoe.life/home)
+[Additional information is available for reading at the MFoE website:](https://www.mfoe.life/home)
 
 ---
 
